@@ -19,3 +19,4 @@ while n <= 100:
 	result = page.url+"\n"+page.content+"\n\n"
 	outfile.write(result)
 	n+=1
+#mamadou is practicing
